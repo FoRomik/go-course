@@ -1,3 +1,5 @@
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
+
 # Курс занятий "Разработка высоконагруженных систем на Golang"
 ## АО "Программный регион"
 
